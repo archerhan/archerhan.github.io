@@ -1,11 +1,11 @@
 {
-    "name": "Flutter Folio",
-    "short_name": "Flutter Folio",
+    "name": "trading_robot",
+    "short_name": "trading_robot",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Flutter Folio is a scrapbooking app that was designed to showcase Flutter’s capabilities to create apps that feel at home on every platform and device",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
